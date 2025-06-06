@@ -5,15 +5,19 @@
 </div>
 
 ### 👩🏽🌸✨QUEM SOU:
-<div align="center">
 - 💙Analista de Sistemas Jr., apaixonada por café, música e trabalho.
+
 - 👩🏽‍💻Atualmente criando portfólios, estagiando no Banco Safra, realizando grandes projetos como o <strong>Segue o Festival!</strong>, empreendendo em família com a <strong>Espetos do Portuga</strong>, Freelancer como recreadora infantil e buscando experiências/conhecimentos técnicos, afim de me tornar minha melhor versão como pessoa e profissional.
+
 - 🩷🌸Coidealizadora do <strong>Safe Woman</strong> APP voltado para Segurança e Combate à violência da mulher.
+
 - 👩🏽‍🎓Graduada em Análise e Desenvolvimento de Sistemas e Graduanda em Inteligência Artificial pela @USCS. 
+
 - 👩🏽‍🎓Técnica em Desenvolvimento de Sistemas pela @etec.
+
 - 🎨Nas horas livres: Praiana, dançarina de streetdance e teatrista. 
+
 - 🤹🏽‍♀️Comunicativa, confiante e curiosa. 
-</div>
 
 ### 🌸MEUS ATUAIS FOCOS:
 - Front-end (HTML, CSS, JS, REACTJS);
