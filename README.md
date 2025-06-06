@@ -1,4 +1,5 @@
 ![Nicoly GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico7y&show_icons=true&theme=cobalt)
+[![GitHub Streak](https://streak-stats.demolab.com/user=Nico7Y&theme=tokyonight)}(https://git.io/streak-stats)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <h1 align="center">✨ Olá, Git! Eu sou a Nicoly! ✨</h1>
 <div align="center">
