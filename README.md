@@ -1,16 +1,19 @@
-# nxvais-dev
+![Nicoly GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico7y&show_icons=true&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/toplangs/?username=Nico7y&layout=compact&theme=cobalt)
 <h1 align="center">✨ Olá, Git! Eu sou a Nicoly! ✨</h1>
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdrOGd0MG9xZHZyOTZ4OTcyOTN2anF2ZDNkOHRjaW15bzdndWh1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/102ygrIsUGwAQU/giphy.gif" width="150px">
 </div>
 
+### 👩🏽🌸✨QUEM SOU:
 <div align="center">
 - 💙Analista de Sistemas Jr., apaixonada por café, música e trabalho.
-- 👩🏽‍💻Atualmente criando um portfólio, estagiando no Banco Safra, realizando grandes projetos como o <strong>Segue o Festival!</strong>, empreendendo em família com a <strong>Espetos do Portuga</strong> e Freelances como recreadora infantil. 
-- 🩷🌸Coidealizadora do <strong>Safe Woman</strong> APP voltado para Segurança e Combate à violência da mulher. 
+- 👩🏽‍💻Atualmente criando portfólios, estagiando no Banco Safra, realizando grandes projetos como o <strong>Segue o Festival!</strong>, empreendendo em família com a <strong>Espetos do Portuga</strong>, Freelancer como recreadora infantil e buscando experiências/conhecimentos técnicos, afim de me tornar minha melhor versão como pessoa e profissional.
+- 🩷🌸Coidealizadora do <strong>Safe Woman</strong> APP voltado para Segurança e Combate à violência da mulher.
 - 👩🏽‍🎓Graduada em Análise e Desenvolvimento de Sistemas e Graduanda em Inteligência Artificial pela @USCS. 
 - 👩🏽‍🎓Técnica em Desenvolvimento de Sistemas pela @etec.
 - 🎨Nas horas livres: Praiana, dançarina de streetdance e teatrista. 
+- 🤹🏽‍♀️Comunicativa, confiante e curiosa. 
 </div>
 
 ### 🌸MEUS ATUAIS FOCOS:
@@ -21,6 +24,13 @@
 
 ### 💻Tecnologias que Uso:
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,golang,figma,dotnet,gitlab,github,kotlin" />
+
+### 🗣️✈️Idiomas:
+- <img src="https://flagcdn.com/w40/br.png" width="20">
+- <img src="https://flagcdn.com/w40/us.png" width="20">
+- <img src="https://flagcdn.com/w40/es.png" width="20">
+- <img src="https://flagcdn.com/w40/fr.png" width="20">
+- <img src="https://flagcdn.com/w40/de.png" width="20">
 
 ### 🗣️🗨️ Vamos conversar?
 - 💼 [Linkedin](https://www.linkedin.com/in/nicoly-de-novais)
