@@ -1,7 +1,7 @@
 # nxvais-dev
 <h1 align="center">✨ Olá, Git! Eu sou a Nicoly! ✨</h1>
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y21kPTc5MGI3NjExM3A3cXZv0GY4ajhkb38B2ZW1nYms0Y3d4MGk4OHFtc21sNmN1M3V5MyZ1cD12MV9naWZzX3N1YJjaCZjdD1n?pfjgJZK1Y8xZK/giphy.gif" width="150px">
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=CzC1WNco&id=FE8056228E9DC1767556E24DEEC20E060FCAE106&thid=OIP.CzC1WNcoCZRz-33QBgWiWwHaGT&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0b30b558d728099473fb7dd00605a25b%3frik%3dBuHKDwYOwu5N4g%26riu%3dhttp%253a%252f%252f68.media.tumblr.com%252f2bcd5f1584814fb90fb001cf5519a27f%252ftumblr_oqqshj6MUC1vjxr9zo1_500.gif%26ehk%3dUGwdLSq0g2eLcIgtIYtv%252btzQznY230EPzRI70xvYpkI%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=426&expw=500&q=GIF+GATINHO+PNG&simid=608012446473131115&FORM=IRPRST&ck=9A812D495FED1DEEB75BDDC117A4F8D1&selectedIndex=0&itb=1&idpp=overlayview&ajaxhist=0&ajaxserp=0" width="150px">
 </div>
 
 <div align="center">
