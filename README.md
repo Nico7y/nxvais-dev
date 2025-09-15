@@ -37,7 +37,7 @@
 
 ### 🗣️🗨️ Vamos conversar?
 - 💼 [Linkedin](https://www.linkedin.com/in/nicoly-de-novais)
-- 📤 Email: Danicanovais@gmail.com | Nicoly.novais@safra.com.br | Nicoly.silva@uscsonline.com.br
+- 📤 Email: Danicanovais@gmail.com | Nicoly.silva@gertec.com.br | Nicoly.silva@uscsonline.com.br
 
 ---
 
