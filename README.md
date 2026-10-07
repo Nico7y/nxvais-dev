@@ -5,13 +5,13 @@
 </div>
 
 ### 👩🏽🌸✨QUEM SOU:
-- 💙Analista de Sistemas Jr., apaixonada por café, música e trabalho.
+- 💙Analista de Sistemas Jr., apaixonada por café, música e praia.
 
-- 👩🏽‍💻Atualmente criando portfólios, estagiando na Gertec, realizando grandes projetos como o meu microempreendimento <strong>CulturABC!</strong>, empreendendo em família com a <strong>Espetos do Portuga</strong>, Freelancer como recreadora infantil e buscando experiências/conhecimentos técnicos, afim de me tornar minha melhor versão como pessoa e profissional.
+- 👩🏽‍💻Atualmente criando portfólios, estagiando na Gertec, realizando grandes projetos como o meu microempreendimento <strong>CulturABC!</strong>, empreendendo em família e buscando experiências/conhecimentos técnicos, afim de me tornar minha melhor versão como pessoa e profissional.
 
 - 🩷🌸Coidealizadora do <strong>Safe Woman</strong> APP voltado para Segurança e Combate à violência da mulher.
 
-- 👩🏽‍🎓Graduada em Análise e Desenvolvimento de Sistemas e Graduanda em Cybersecurity pela @USCS, no quarto semestre. 
+- 👩🏽‍🎓Graduada em Análise e Desenvolvimento de Sistemas e Graduanda em Cybersecurity pela @USCS, no quinto semestre. 
 
 - 👩🏽‍🎓Técnica em Desenvolvimento de Sistemas pela @etec.
 
@@ -19,14 +19,10 @@
 
 - 🤹🏽‍♀️Comunicativa, confiante e curiosa. 
 
-### 🌸MEUS ATUAIS FOCOS:
-- Front-end (HTML, CSS, JS, REACTJS);
-- Back-end (Node.JS, Kotlin, Python, GO, C#);
-- UI/UX DESIGN;
-- Prover sistemas de pequeno e médio porte.
+### 🌸MEUS ATUAIS FOCOS: C e Kotlin;
 
 ### 💻Tecnologias que Uso:
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,golang,figma,dotnet,gitlab,github,kotlin" />
+<img src="https://skillicons.dev/icons?i=C,html,css,js,react,nodejs,python,golang,figma,dotnet,gitlab,github,kotlin" />
 
 ### 🗣️✈️Idiomas:
 - <img src="https://flagcdn.com/w40/br.png" width="20">
